@@ -1,0 +1,10 @@
+# Ignore all files by default
+*
+
+# Allow .cpp, .hpp, and .bat files
+!*.cpp
+!*.hpp
+!*.bat
+
+# Allow the .gitignore file itself
+!.gitignore
